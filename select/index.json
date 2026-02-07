@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "火ノ要鎮",
+  "base_artist": "平田義久",
+  "createdAt": "2026-02-07T08:31:24.779935Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "火ノ要鎮  (劇薬版)",
+      "artist": "平田義久",
+      "has_synced": false,
+      "path": "select/pl_01_火ノ要鎮_(劇薬版)_平田義久.txt"
+    }
+  ]
+}
